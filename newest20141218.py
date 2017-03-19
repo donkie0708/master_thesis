@@ -724,4 +724,4 @@ class clc():
 if __name__ == '__main__':
 	# test client
 	start = clc('/home/akamalab/Desktop/CLT_wangzheng/scienceParticipentData/data-science-P3.mat','/home/akamalab/Desktop/CLT_wangzheng/scienceParticipentData/co_occurrenceTable.csv')
-	result = start.run()
+	result = start.RunWithEase()
